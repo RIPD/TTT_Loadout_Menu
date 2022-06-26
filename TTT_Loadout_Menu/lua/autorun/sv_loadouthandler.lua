@@ -41,6 +41,9 @@ if SERVER then -- Our serverside stuff
 				ply:Give( s )
 				ply:Give( g )
 
+				-- Give Ammo (ugly but it works ;-) )
+
+				--Primary Weapons
 				if p == "weapon_zm_shotgun" then ply:SetAmmo(24, "Buckshot", false ) end
 				if p == "weapon_zm_mac10" then ply:SetAmmo(60, "SMG1", false ) end
 				if p == "weapon_zm_sledge" then ply:SetAmmo(0, "AirboatGun", false ) end
@@ -56,6 +59,7 @@ if SERVER then -- Our serverside stuff
 				if p == "weapon_sp_striker" then ply:SetAmmo(24, "Buckshot", false ) end
 				if p == "weapon_sp_winchester" then ply:SetAmmo(24, "Buckshot", false ) end
 
+				--Secondary Weapons
 				if s == "weapon_pp_rbull" then ply:SetAmmo(36, "AlyxGun", false ) end
 				if s == "weapon_pp_remington" then ply:SetAmmo(36, "AlyxGun", false ) end
 				if s == "weapon_rp_pocket" then ply:SetAmmo(20, "357", false ) end

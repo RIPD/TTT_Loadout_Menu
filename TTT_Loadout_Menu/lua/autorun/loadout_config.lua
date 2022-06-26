@@ -65,10 +65,10 @@ loadout.icons = {
 	["weapon_ap_tec9"] = "vgui/ttt/lykrast/icon_ap_tec9",
 	["weapon_ap_vector"] = "vgui/ttt/lykrast/icon_ap_vector",
 	["weapon_ap_hbadger"] = "vgui/ttt/lykrast/icon_ap_hbadger", --TTT Assault Pack id=307400139
-	["weapon_ap_pp19"] = "vgui/ttt/lykrast/icon_ap_pp19.vtf",
+	["weapon_ap_pp19"] = "vgui/ttt/lykrast/icon_ap_pp19.",
 	["weapon_pp_rbull"] = "vgui/ttt/lykrast/icon_pp_rbull", --TTT Pistol Pack id=307401169
 	["weapon_pp_remington"] = "vgui/ttt/lykrast/icon_pp_remington",
-	["weapon_rp_pocket"] = "vgui/ttt/lykrast/icon_rp_pocket.vmt", --TTT Rifle Pack id=307400737
+	["weapon_rp_pocket"] = "vgui/ttt/lykrast/icon_rp_pocket", --TTT Rifle Pack id=307400737
 	["weapon_sp_dbarrel"] = "vgui/ttt/lykrast/icon_sp_dbarrel", --TTT Shotgun Pack id=307345118
 	["weapon_sp_striker"] = "vgui/ttt/lykrast/icon_sp_striker",
 	["weapon_sp_winchester"] = "vgui/ttt/lykrast/icon_sp_winchester",
